@@ -1,6 +1,6 @@
-# web-cse510-25wi
+# web-cse510-26sp
 
-Course website for the Winter 2025 offering of CSE 510.
+Course website for the Spring 2026 offering of CSE 510.
 
 ## Installation of System Dependencies
 
