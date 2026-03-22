@@ -1,7 +1,9 @@
+import { AssignmentDueDateTime } from "@/components/AssignmentDueDateTime";
 import { TBD } from "@/components/TBD";
 import { UnderDevelopment } from "@/components/UnderDevelopment";
 import { CourseDataLink } from "@/components/links/CourseDataLink";
 import { SiteLink } from "@/components/links/SiteLink";
+import { calendarData } from "@/data/CalendarData";
 import { courseData } from "@/data/CourseData";
 import { SiteLinks } from "@/data/SiteLinks";
 
@@ -25,34 +27,32 @@ or otherwise provide direct input in your preparation of a reflection.
 
 ## Types of Reflections
 
-Students are asked to submit three different types of reflections, on each of:
+Students are asked to submit three different types of reflections, on:
 
 - <SiteLink linkKey={SiteLinks.assignmentsReflectionsContributionTop}/>:
   what knowledge is gained through research activities.
 - <SiteLink linkKey={SiteLinks.assignmentsReflectionsMethodTop}/>:
   how research activities are structured to demonstrate contributions.
 - <SiteLink linkKey={SiteLinks.assignmentsReflectionsFramingTop}/>:
-  why contributions are valued,
-  through motivation, language, theory, or understanding that can contextualize activities and contributions.
+  how motivation, language, theory, or understanding can provide context for activities and contributions.
 
-## Required and Optional Reflections
+## Required Reflections and Additional Reflection
 
 Each student is required to submit: 1 contribution reflection, 1 method reflection, 1 framing reflection.
 
 Optionally, a student may submit 1 additional reflection of any type.
-If this optional reflection is submitted and receives a higher grade than a required reflection of the same type,
+If this additional reflection is submitted and receives a higher grade than a required reflection of the same type,
 it will replace that prior reflection.
 
-Reflections can be submitted throughout the course,
-but only one reflection can be submitted in any calendar week (i.e., between Sunday 12:00am and Saturday 11:59pm).
-This is to encourage you to engage with reflections throughout the quarter, and also to distribute associated demands of grading.
-
-All reflections must be submitted by Saturday March 15, 11:59pm.
+Reflection due dates are intentionally staggered relative to project due dates.
+Nevertheless, managing the workload of reflections will require planning.
+Although staff will aim to grade reflections as quickly as possible,
+it may not be possible to provide grades prior to the due date of an additional reflection.
 
 ## Grading
 
-Evaluation is necessarily subjective, so we have attempted to detail how we will approach evaluation of each type of reflection.
-As above, you may consult the course staff with any general questions about the intent of this reflection format,
+Evaluation is necessarily subjective, so we have attempted to detail how we will approach evaluation of each reflection.
+You may consult the course staff with any general questions about the intent of this reflection format,
 but should not ask course staff to review a draft,
 answer questions that emerge as you prepare a reflection,
 or otherwise provide direct input in your preparation of a reflection.
@@ -75,17 +75,21 @@ Any submission that includes a name will be graded but then penalized for this b
 Submit your reflections in PDF format:
 
 - Required Contribution Reflection:
+  - Due: <AssignmentDueDateTime assignmentKey={calendarData.assignments.reflectionContribution} />
 
-  <CourseDataLink outerComponent="p" linkKey={courseData.linkCanvasReflectionRequiredContribution} />
+  - <CourseDataLink outerComponent="p" linkKey={courseData.linkCanvasReflectionRequiredContribution} />
 
 - Required Method Reflection:
+  - Due: <AssignmentDueDateTime assignmentKey={calendarData.assignments.reflectionMethod} />
 
-  <CourseDataLink outerComponent="p" linkKey={courseData.linkCanvasReflectionRequiredMethod} />
+  - <CourseDataLink outerComponent="p" linkKey={courseData.linkCanvasReflectionRequiredMethod} />
 
 - Required Framing Reflection:
+  - Due: <AssignmentDueDateTime assignmentKey={calendarData.assignments.reflectionFraming} />
 
-  <CourseDataLink outerComponent="p" linkKey={courseData.linkCanvasReflectionRequiredFraming} />
+  - <CourseDataLink outerComponent="p" linkKey={courseData.linkCanvasReflectionRequiredFraming} />
 
-- Optional Reflection:
+- Additional Reflection:
+  - Due: <AssignmentDueDateTime assignmentKey={calendarData.assignments.reflectionAdditional} />
 
-  <CourseDataLink outerComponent="p" linkKey={courseData.linkCanvasReflectionOptional} />
+  - <CourseDataLink outerComponent="p" linkKey={courseData.linkCanvasReflectionAdditional} />
