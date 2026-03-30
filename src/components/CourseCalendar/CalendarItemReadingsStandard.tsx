@@ -39,7 +39,7 @@ export const CalendarItemReadingsStandard: React.FunctionComponent<{
           <SiteLink linkKey={SiteLinks.assignmentsReadingsTop} />.
         </p>
         <p>
-          Post a reading report in the appropriate thread, by 5pm the day before
+          Post a reading report in the appropriate thread, by 7:00pm the day before
           class:
         </p>
         <CourseDataLink linkKey={courseData.linkCanvasDiscussion}>
