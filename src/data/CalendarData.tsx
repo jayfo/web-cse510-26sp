@@ -320,53 +320,53 @@ export const calendarData: {
                 authorText: "Mark Weiser",
                 title: "The Computer for the 21st Century",
                 publicationText: "Scientific American. 1991",
-                link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/visions?preview=147527640",
+                link: "https://canvas.uw.edu/files/147527640",
               },
               {
                 authorText: "James D. Hollan, Scott Stornetta",
                 title: "Beyond Being There",
                 publicationText: "CHI 1992",
-                link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/visions?preview=147520024",
+                link: "https://canvas.uw.edu/files/147520024",
               },
               {
                 authorText: "Pierre Wellner",
                 title: "Interacting with Paper on the DigitalDesk",
                 publicationText: "CACM. 1993",
-                link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/visions?preview=147530282",
+                link: "https://canvas.uw.edu/files/147530376",
               },
               {
                 authorText: "Benjamin B. Bederson, James D. Hollan",
                 title:
                   "Pad++: A Zooming Graphical Interface for Exploring Alternate Interface Physics",
                 publicationText: "UIST 1994",
-                link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/visions?preview=147530316",
+                link: "https://canvas.uw.edu/files/147531035",
               },
               {
                 authorText: "Hiroshi Ishii, Brygg Ullmer",
                 title:
                   "Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms",
                 publicationText: "CHI 1997",
-                link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/visions?preview=147531067",
+                link: "https://canvas.uw.edu/files/147531323",
               },
               {
                 authorText: "Eric Horvitz",
                 title: "Principles of Mixed-Initiative User Interfaces",
                 publicationText: "CHI 1999",
-                link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/visions?preview=147531066",
+                link: "https://canvas.uw.edu/files/147531321",
               },
               {
                 authorText:
                   "Ken Hinckley, Jeff Pierce, Mike Sinclair, Eric Horvitz",
                 title: "Sensing Techniques for Mobile Interaction",
                 publicationText: "UIST 2000",
-                link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/visions?preview=147531065",
+                link: "https://canvas.uw.edu/files/147531290",
               },
               {
                 authorText: "Saul Greenberg, Chester Fitchett",
                 title:
                   "Phidgets: Easy Development of Physical Interfaces through Physical Widgets",
                 publicationText: "UIST 2001",
-                link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/visions?preview=147531062",
+                link: "https://canvas.uw.edu/files/147531234",
               },
               {
                 authorText:
@@ -374,7 +374,7 @@ export const calendarData: {
                 title:
                   "Place Lab: Device Positioning Using Radio Beacons in the Wild",
                 publicationText: "Pervasive 2005",
-                link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/visions?preview=147531069",
+                link: "https://canvas.uw.edu/files/147531324",
               },
               {
                 authorText:
@@ -382,7 +382,7 @@ export const calendarData: {
                 title:
                   "A Practical Approach to Recognizing Physical Activities",
                 publicationText: "Pervasive 2006",
-                link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/visions?preview=147531070",
+                link: "https://canvas.uw.edu/files/147531325",
               },
               {
                 authorText: "Bret Victor",
@@ -396,14 +396,14 @@ export const calendarData: {
                   "Michael S. Bernstein, Greg Little, Robert C. Miller, Björn Hartmann, Mark S. Ackerman, David R. Karger, David Crowell, Katrina Panovich",
                 title: "Soylent: A Word Processor with a Crowd Inside",
                 publicationText: "UIST 2010",
-                link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/visions?preview=147531061",
+                link: "https://canvas.uw.edu/files/147531061",
               },
               {
                 authorText:
                   "Chris Harrison, Hrvoje Benko, and Andrew D. Wilson",
                 title: "OmniTouch: Wearable Multitouch Interaction Everywhere",
                 publicationText: "UIST 2011",
-                link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/visions?preview=147531063",
+                link: "https://canvas.uw.edu/files/147531284",
               },
             ],
           }}
@@ -423,7 +423,7 @@ export const calendarData: {
               authorText: "Jacob O. Wobbrock, Julie A. Kientz",
               title: "Research Contributions in Human-Computer Interaction",
               publicationText: "Interactions. 2016",
-              link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/contribution?preview=147531570",
+              link: "https://canvas.uw.edu/files/147531867",
             },
           }}
         />
@@ -454,21 +454,21 @@ export const calendarData: {
           authorText: "Saul Greenberg, Bill Buxton",
           title: "Usability Evaluation Considered Harmful (Some of the Time)",
           publicationText: "CHI 2008",
-          link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/usability_evaluation_considered_harmful?preview=147531590",
+          link: "https://canvas.uw.edu/files/147531726",
         },
         instances: [
           {
             authorText: "Dan R. Olsen, Jr",
             title: "Evaluating User Interface Systems Research",
             publicationText: "UIST 2007",
-            link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/usability_evaluation_considered_harmful?preview=147531591",
+            link: "https://canvas.uw.edu/files/147531664",
           },
           {
             authorText: "James Fogarty",
             title: "Code and Contribution in Interactive Systems Research",
             publicationText:
               "CHI 2017 Workshop on #HCI.Tools: Strategies and Best Practices for Designing, Evaluating, and Sharing Technical HCI Toolkits",
-            link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/usability_evaluation_considered_harmful?preview=147531589",
+            link: "https://canvas.uw.edu/files/147531662",
           },
         ],
       },
@@ -501,7 +501,7 @@ export const calendarData: {
           title:
             "DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice",
           publicationText: "HCI. 2003",
-          link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/design_tools?preview=147792899",
+          // link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/design_tools?preview=147792899",
         },
         instances: [
           {
@@ -509,14 +509,14 @@ export const calendarData: {
             title:
               "Exploring the Diminishing Allure of Paper and Low-Fidelity Prototyping Among Designers in the Software Industry: Impacts of Hybrid Work, Digital Tools, and Corporate Culture",
             publicationText: "CHI 2024",
-            link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/design_tools?preview=147792920",
+            // link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/design_tools?preview=147792920",
           },
           {
             authorText: "Peitong Duan, Jeremy Warner, Yang Li, Bjoern Hartmann",
             title:
               "Generating Automatic Feedback on UI Mockups with Large Language Models",
             publicationText: "CHI 2024",
-            link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/design_tools?preview=147792902",
+            // link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/design_tools?preview=147792902",
           },
         ],
       },
@@ -536,7 +536,7 @@ export const calendarData: {
             "Jacob O. Wobbrock, Krzysztof Z. Gajos, Shaun K. Kane, Gregg C. Vanderheiden",
           title: "Ability-Based Design",
           publicationText: "CACM. 2018",
-          link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/accessibility?preview=147793007",
+          // link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/accessibility?preview=147793007",
         },
         // TODO: Decide Spring 2026 instance papers.
         // instances: [
@@ -572,7 +572,7 @@ export const calendarData: {
           authorText: "Brad Myers, Scott E. Hudson, Randy Pausch",
           title: "Past, Present, and Future of User Interface Software Tools",
           publicationText: "TOCHI 2000",
-          link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/interface_toolkits?preview=147793056",
+          // link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/interface_toolkits?preview=147793056",
         },
         instances: [
           {
@@ -581,14 +581,14 @@ export const calendarData: {
             title:
               "The Ability-Based Design Mobile Toolkit (ABD-MT): Developer Support for Runtime Interface Adaptation Based on Users' Abilities",
             publicationText: "MobileHCI 2024",
-            link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/interface_toolkits?preview=147793060",
+            // link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/interface_toolkits?preview=147793060",
           },
           {
             authorText:
               "Josh Pollock, Catherine Mei, Grace Huang, Elliot Evans, Daniel Jackson, Arvind Satyanarayan",
             title: "Bluefish: Composing Diagrams with Declarative Relations",
             publicationText: "UIST 2024",
-            link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/interface_toolkits?preview=147793058",
+            // link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/interface_toolkits?preview=147793058",
           },
         ],
       },
@@ -607,7 +607,7 @@ export const calendarData: {
           authorText: "Eric Horvitz",
           title: "Principles of Mixed-Initiative User Interfaces",
           publicationText: "CHI 1999",
-          link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/human_ai_interaction?preview=147793102",
+          // link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/human_ai_interaction?preview=147793102",
         },
         // TODO: Decide Spring 2026 instance papers.
         instances: [],
@@ -691,7 +691,7 @@ export const calendarData: {
             "Gagan Bansal, Jennifer Wortman Vaughan, Saleema Amershi, Eric Horvitz, Adam Fourney, Hussein Mozannar, Victor Dibia, Daniel S. Weld",
           title: "Challenges in Human-Agent Communication",
           publicationText: "arXiv. 2024",
-          link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/human_agent_interaction?preview=147793143",
+          // link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/human_agent_interaction?preview=147793143",
         },
         // TODO: Decide Spring 2026 instance papers.
         // instances: [
@@ -736,7 +736,7 @@ export const calendarData: {
           title:
             "Ten Million Users and Ten Years Later: Python Tutor’s Design Guidelines for Building Scalable and Sustainable Research Software in Academia",
           publicationText: "UIST 2021",
-          link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/sustained_hci_research_in_the_world?preview=147793197",
+          // link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/sustained_hci_research_in_the_world?preview=147793197",
         },
         instances: [
           {
@@ -745,7 +745,7 @@ export const calendarData: {
             title:
               "Deploying and Examining Beacon for At-Home Patient Self-Monitoring with Critical Flicker Frequency",
             publicationText: "CHI 2025",
-            link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/sustained_hci_research_in_the_world?preview=147793199",
+            // link: "https://canvas.uw.edu/courses/1881189/files/folder/readings/sustained_hci_research_in_the_world?preview=147793199",
           },
           // {
           //   authorText: "Esther Han Beol Jang et al",
