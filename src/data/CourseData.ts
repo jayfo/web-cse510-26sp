@@ -57,6 +57,14 @@ export const courseData = {
     href: "https://drive.google.com/drive/folders/1ncai7HbvIhGcb-u496GCqdfi70LM_kqW?usp=sharing",
   },
 
+  linkDriveVisionsSignup: {
+    href: "https://docs.google.com/document/d/1fhMmLwfje_1fz6aePjR3IPsAw8MzFMWG-CqcD7AHz1o/edit?usp=sharing",
+  },
+
+  linkDriveVisionsSlides: {
+    href: "https://docs.google.com/presentation/d/18_KIqC-kujUd1WKWfMmO2M6xv5D098Ih4oC6ihIAMgA/edit?usp=sharing",
+  },
+
   linkDrivePresentationSignup: {
     // TODO: Set href to Spring 2026 presentation signup document.
     // Previous Winter 2025 URL:
