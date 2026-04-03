@@ -525,7 +525,7 @@ export const calendarData: {
       date: verifyCalendarDate("2026-04-23", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       type: "lecture",
-      title: "Research Topic: Accessibility (Tentative)",
+      title: "Research Topic: Accessibility",
       guest: {
         name: "Martez Mott",
         link: "http://www.martezmott.com/",
@@ -566,7 +566,7 @@ export const calendarData: {
       date: verifyCalendarDate("2026-04-28", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       type: "lecture",
-      title: "Research Topic: Computational Materials (Tentative)",
+      title: "Research Topic: Computational Materials",
       guest: {
         name: "Yiyue Luo",
         link: "https://yyueluo.com/",
@@ -576,7 +576,7 @@ export const calendarData: {
       date: verifyCalendarDate("2026-04-30", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       type: "lecture",
-      title: "Research Topic: Human-AI Interaction (Tentative)",
+      title: "Research Topic: Human-AI Interaction",
       guest: {
         name: "Kevin Feng",
         link: "https://kjfeng.me/",
@@ -597,7 +597,7 @@ export const calendarData: {
       date: verifyCalendarDate("2026-05-12", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       type: "lecture",
-      title: "Research Topic: CSCW and Social Computing (Tentative)",
+      title: "Research Topic: CSCW and Social Computing",
       guest: {
         name: "Mako Hill",
         link: "https://mako.cc/",
@@ -641,7 +641,7 @@ export const calendarData: {
       date: verifyCalendarDate("2026-05-14", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       type: "lecture",
-      title: "Research Topic: Research Through Design (Tentative)",
+      title: "Research Topic: Research Through Design",
       guest: {
         name: "Audrey Desjardins",
         link: "http://audreydesjardins.com/",
@@ -653,7 +653,7 @@ export const calendarData: {
       date: verifyCalendarDate("2026-05-19", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       type: "lecture",
-      title: "Research Topic: Interface Toolkits (Tentative)",
+      title: "Research Topic: Interface Toolkits",
       readingsStandard: {
         framing: {
           authorText: "Brad Myers, Scott E. Hudson, Randy Pausch",
@@ -684,7 +684,7 @@ export const calendarData: {
       date: verifyCalendarDate("2026-05-21", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       type: "lecture",
-      title: "Research Topic: Human-Agent Interaction (Tentative)",
+      title: "Research Topic: Human-Agent Interaction",
       guest: {
         name: "Gagan Bansal",
         link: "https://gagb.github.io/",
