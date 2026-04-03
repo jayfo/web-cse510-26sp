@@ -717,7 +717,11 @@ export const calendarData: {
       date: verifyCalendarDate("2026-06-02", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       type: "lecture",
-      title: "Research Topic: TBD",
+      title: "Research Topic: HCI and Health",
+      guest: {
+        name: "Sean Munson",
+        link: "https://www.smunson.com/",
+      },
     },
     {
       date: verifyCalendarDate("2026-06-04", "Thu"),
