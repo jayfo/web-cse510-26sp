@@ -1,0 +1,100 @@
+import { AssignmentDueDateTime } from "@/components/AssignmentDueDateTime";
+import { TBD } from "@/components/TBD";
+import { UnderDevelopment } from "@/components/UnderDevelopment";
+import { AssignmentSubmitCanvasLink } from "@/components/links/AssignmentSubmitCanvasLink";
+import { SiteLink } from "@/components/links/SiteLink";
+import { calendarData } from "@/data/CalendarData";
+import { SiteLinks } from "@/data/SiteLinks";
+
+# Reflections
+
+<UnderDevelopment display={false} />
+
+Reflections ask you to demonstrate and apply your understanding of the course material in a more substantial format than reading reports.
+Asking you to connect concepts across readings and research,
+reflections aim to evaluate your understanding of and critical thinking about concepts covered in this course.
+Keeping pace with readings and engaging in discussions will make reflections easier to prepare.
+
+Prior versions of this course have used exams or labs toward similar purposes.
+These reflections are intended to provide greater flexibility for students to adapt the course to their goals and learning.
+Reflections are inherently open-book, so you may reference
+readings, discussion posts, presentation slides, notes, or other material readily available on the web.
+
+Reflections are strictly individual (i.e., do not discuss your reflections with others).
+You may consult the course staff with any general questions about the intent of this reflection format,
+but should not ask course staff to review a draft,
+answer questions that emerge as you prepare a reflection,
+or otherwise provide direct input in your preparation of a reflection.
+
+## Types of Reflections
+
+Students are asked to submit three different types of reflections, on:
+
+- <SiteLink linkKey={SiteLinks.assignmentsReflectionsContributionTop}/>:
+  what knowledge is gained through research activities.
+- <SiteLink linkKey={SiteLinks.assignmentsReflectionsMethodTop}/>:
+  how research activities are structured to demonstrate contributions.
+- <SiteLink linkKey={SiteLinks.assignmentsReflectionsFramingTop}/>:
+  how motivation, language, theory, or understanding can provide context for activities and contributions.
+
+## Required Reflections and Additional Reflection
+
+Each student is required to submit: 1 contribution reflection, 1 method reflection, 1 framing reflection.
+
+Optionally, a student may submit 1 additional reflection of any type.
+If this additional reflection is submitted and receives a higher grade than a required reflection of the same type,
+it will replace that prior reflection.
+
+Reflection due dates are intentionally staggered relative to project due dates.
+Nevertheless, managing the workload of reflections will require planning.
+Although staff will aim to grade reflections as quickly as possible,
+it may not be possible to provide grades prior to the due date of an additional reflection.
+
+Selected papers and research must be unique across all submitted reflections
+(i.e., you may not use the same paper or research in more than one reflection).
+This can suggest advance planning of what papers and research you intend to use in each reflection.
+
+## Grading
+
+Evaluation is necessarily subjective, so we have attempted to detail how we will approach evaluation of each reflection.
+You may consult the course staff with any general questions about the intent of this reflection format,
+but should not ask course staff to review a draft,
+answer questions that emerge as you prepare a reflection,
+or otherwise provide direct input in your preparation of a reflection.
+
+Each reflection will be graded on a scale of 10 points.
+This is intended to provide sufficient granularity for evaluation to differentiate reflections of varying quality,
+while remaining coarse enough to avoid introducing distinctions that are likely to be inconsistently applied.
+We expect few submissions to receive 10 points,
+as the upper extreme of the grading scale will be reserved for reflections that differentiate themselves.
+Reflections that receive other strong grades
+may therefore meet expectations, may not be missing any expected component, and may not be incorrect in any identifiable way.
+The strongest grades will be reserved for reflections that go beyond expectations in one or more regards.
+
+Do not include your name in your submission.
+Our goal is to maximize anonymity in grading of reflections.
+Any submission that includes a name will be graded but then penalized for this breach of anonymity.
+
+## Submission
+
+Submit your reflections in PDF format:
+
+- Required Contribution Reflection:
+  - Due: <AssignmentDueDateTime assignmentKey={calendarData.assignments.reflectionContribution} />
+
+  - <AssignmentSubmitCanvasLink outerComponent="p" assignmentKey={calendarData.assignments.reflectionContribution} />
+
+- Required Method Reflection:
+  - Due: <AssignmentDueDateTime assignmentKey={calendarData.assignments.reflectionMethod} />
+
+  - <AssignmentSubmitCanvasLink outerComponent="p" assignmentKey={calendarData.assignments.reflectionMethod} />
+
+- Required Framing Reflection:
+  - Due: <AssignmentDueDateTime assignmentKey={calendarData.assignments.reflectionFraming} />
+
+  - <AssignmentSubmitCanvasLink outerComponent="p" assignmentKey={calendarData.assignments.reflectionFraming} />
+
+- Additional Reflection:
+  - Due: <AssignmentDueDateTime assignmentKey={calendarData.assignments.reflectionAdditional} />
+
+  - <AssignmentSubmitCanvasLink outerComponent="p" assignmentKey={calendarData.assignments.reflectionAdditional} />

@@ -1,0 +1,57 @@
+import { FormattedReading } from '@/components/FormattedReading';
+import { CourseDataLink } from '@/components/links/CourseDataLink';
+import { courseData } from '@/data/CourseData';
+
+Read the framing paper:
+
+<ul>
+    <li key={props.readings.framing.title}>
+        <p><FormattedReading reading={props.readings.framing}/></p>
+    </li>
+</ul>
+
+### Reading Format
+
+No reading report is assigned.
+
+Each student has three responsibilities:
+
+- Read the framing paper and come prepared for discussion.
+
+  Although class will not use the full discussion format,
+  it will include time dedicated to small-group discussion and the surfacing of questions from those discussions.
+
+- Select any two full papers from a recent major HCI research conference.
+  Find papers by searching the web or by browsing and searching conference programs.
+
+  For example, SIGCHI provides searchable programs of recent and upcoming conferences:
+
+  [SIGCHI Conference Programs](https://programs.sigchi.org/)
+
+  This includes papers at:
+
+  [CHI 2026](https://programs.sigchi.org/chi/2026/program/all?CONTENT_TYPE%5B%5D=14739;14694&itemsType=CONTENT&sortDirection=asc&sortType=TITLE&viewType=LIST)
+
+  [CHI 2025](https://programs.sigchi.org/chi/2025/program/all?CONTENT_TYPE%5B%5D=14039;13945&itemsType=CONTENT&sortDirection=asc&sortType=TITLE&viewType=LIST)
+
+  [CHI 2024](https://programs.sigchi.org/chi/2024/program/all?CONTENT_TYPE%5B%5D=13341;13269&itemsType=CONTENT&sortDirection=asc&sortType=TITLE&viewType=LIST)
+
+  Ensure papers you select are full papers
+  (i.e., marked as part of a "Papers" track or a "Journals" track).
+
+  You may select any papers you want to spend more time reviewing
+  (e.g., papers that seem interesting for any reason,
+  papers related to a topic that might help inform your identification of a course project,
+  papers related to a form of contribution or a method that might help inform your proposal of a course project).
+  Given our focus on forms of contribution,
+  you may want to choose two papers that emphasize different forms of contribution.
+
+  Review your selected papers with a focus on how they organize their research and present their contributions,
+  within the forms of contribution presented by the framing paper.
+  We do not expect you to focus on the details of these papers, but rather their organization and how their research is presented.
+  You can and should skim according to your needs.
+  In-class discussion will focus on the framing paper.
+
+- Submit this Form, sharing your selected papers and their primary form of contribution:
+
+  <CourseDataLink outerComponent="p" linkKey={courseData.linkFormContributionsInHCIConferencePapers} />
