@@ -520,7 +520,6 @@ export const calendarData: {
       date: verifyCalendarDate("2026-04-23", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       type: "lecture",
-      tbd: true,
       title: "Research Topic: Accessibility",
       guest: {
         name: "Martez Mott",
@@ -555,7 +554,6 @@ export const calendarData: {
       date: verifyCalendarDate("2026-04-28", "Tue"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       type: "lecture",
-      tbd: true,
       title: "Research Topic: Interactive Devices and Fabrication",
       guest: {
         name: "Yiyue Luo",
@@ -588,7 +586,6 @@ export const calendarData: {
       date: verifyCalendarDate("2026-04-30", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       type: "lecture",
-      tbd: true,
       title: "Research Topic: Human-AI Interaction",
       guest: {
         name: "Kevin Feng",
@@ -667,7 +664,6 @@ export const calendarData: {
       date: verifyCalendarDate("2026-05-14", "Thu"),
       timeAndLocation: TIME_AND_LOCATION_LECTURE,
       type: "lecture",
-      tbd: true,
       title: "Research Topic: Research Through Design",
       guest: {
         name: "Audrey Desjardins",
