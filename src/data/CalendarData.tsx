@@ -608,7 +608,7 @@ export const calendarData: {
           {
             authorText: "K. J. Kevin Feng, Kevin Pu, Matt Latzke, Tal August, Pao Siangliulue, Jonathan Bragg, Daniel S. Weld, Amy X. Zhang, Joseph Chee Chang",
             title: "Cocoa: Co-Planning and Co-Execution with AI Agents",
-            publicationText: "arXiv. 2024",
+            publicationText: "CHI 2026",
             link: "https://canvas.uw.edu/files/148758428",
           },
         ],
